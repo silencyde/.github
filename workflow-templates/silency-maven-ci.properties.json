@@ -1,0 +1,10 @@
+{
+    "name": "Silency Maven CI Workflow",
+    "description": "Spleef Maven CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+        "Kotlin",
+        "Maven"
+    ]
+}
