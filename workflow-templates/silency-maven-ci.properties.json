@@ -1,7 +1,7 @@
 {
     "name": "Silency Maven CI Workflow",
-    "description": "Spleef Maven CI workflow template.",
-    "iconName": "example-icon",
+    "description": "Silency Maven CI Workflow template.",
+    "iconName": "octicon package",
     "categories": [
         "Java",
         "Kotlin",
